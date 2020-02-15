@@ -218,7 +218,7 @@ int main(int argc, char const *argv[]){
 			}
 	};
 	*/
-//============================ ABSTRAKSI ====================================
+//=========================== ABSTRAKSI ====================================
 	/*
 	// Abstraksi: hanya menampilkan informasi penting
 	// 			  dan menyembunyikan detailnya
@@ -245,10 +245,7 @@ int main(int argc, char const *argv[]){
 				cout << "b = " << b << endl;
 			}
 	};
-	
+	*/
 
-
-
-	 */
 	return 0;
 }
