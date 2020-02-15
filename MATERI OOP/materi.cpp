@@ -218,5 +218,37 @@ int main(int argc, char const *argv[]){
 			}
 	};
 	*/
+//============================ ABSTRAKSI ====================================
+	/*
+	// Abstraksi: hanya menampilkan informasi penting
+	// 			  dan menyembunyikan detailnya
+
+	Contoh Abstraksi:
+	// membuat class
+	class Abstrak{
+		// penentu akses private
+		private:
+			// attribute private
+			int a, b;
+
+		// penentu akses public
+		public:
+			// method set attribute private
+			void setAttr(int x, int y){
+				a = x;
+				b = y;
+			}
+			// Abstraksi
+			// method display value attribute private
+			void display(){
+				cout << "a = " << a << endl;
+				cout << "b = " << b << endl;
+			}
+	};
+	
+
+
+
+	 */
 	return 0;
 }
