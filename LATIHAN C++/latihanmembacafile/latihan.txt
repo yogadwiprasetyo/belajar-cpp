@@ -1,0 +1,8 @@
+Ini daftar IPK mahasiswa.
+berikut daftarnya: 
+
+data:
+nama	IPK
+Yoga	3.80
+Yoga	3.80
+Yoga	3.80

@@ -1,0 +1,10 @@
+ini adalah file eksternal.
+dan ini adalah baris ke-dua.
+
+data
+No	Nama
+1	Yoga
+2	Andre
+3	Iyan
+4	Nabiel
+5	Azril
